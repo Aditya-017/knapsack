@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-
+//comment
 
 class Item implements Comparable<Item>{
 	double getWeight() {
