@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 //comment
-
+//new comment
 class Item implements Comparable<Item>{
 	double getWeight() {
 		return weight;
