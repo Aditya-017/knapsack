@@ -1,11 +1,11 @@
-package knapsack;
+cpackage knapsack;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-//added lates comment
-//added comment knapsack
+
+
 class Item implements Comparable<Item>{
 	double getWeight() {
 		return weight;
