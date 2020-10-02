@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 //comment
 //new comment
+//this solves knapsack problem
 class Item implements Comparable<Item>{
 	double getWeight() {
 		return weight;
